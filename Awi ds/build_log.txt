@@ -1,0 +1,1 @@
+Makefile:50: *** target pattern contains no `%'.  Stop.
